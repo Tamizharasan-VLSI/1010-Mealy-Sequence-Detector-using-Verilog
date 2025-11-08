@@ -5,7 +5,7 @@ module tb;
   wire data_out;
   integer i;
   
-  fsm_moore_1010 dut (clk,rst,data_in,data_out);
+  fsm_mealy_1010 dut (clk,rst,data_in,data_out);
   
   initial begin
     forever begin
@@ -42,4 +42,5 @@ module tb;
     #10;$finish;
     end
     
+
 endmodule
