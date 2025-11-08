@@ -4,13 +4,6 @@ This repository contains a **Mealy Finite State Machine (FSM)** implementation i
 
 ---
 
-## Files
-
-1. **`fsm_mealy_1010.v`** – Mealy FSM design  
-2. **`tb_fsm_mealy_1010.v`** – Testbench for simulation  
-
----
-
 ## FSM Design Details
 
 - **Type:** Mealy FSM  
