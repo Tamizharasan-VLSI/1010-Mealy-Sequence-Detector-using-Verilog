@@ -40,7 +40,7 @@ This repository contains a **Mealy Finite State Machine (FSM)** implementation i
 ## How to Simulate
 
 1. Open your preferred Verilog simulator (Vivado XSim, ModelSim, etc.).  
-2. Compile `fsm_mealy_1010.v` and `tb_fsm_mealy_1010.v`.  
+2. Compile `Source code.v` and `TB.v`.  
 3. Run the simulation.  
 4. Observe the output `data_out` in waveform or console.  
 
